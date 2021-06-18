@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>city.png</Source>
+      <Name>city</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Potatiskatt\OneDrive - Sektor barn och utbildning\IT-kurser\Programmering 2\HumanApocalypse\HumanApocalypse\HumanApocalypse\bin\x86\Debug\Content\city.xnb</Output>
+      <Time>2018-04-17T10:12:05.067865+02:00</Time>
+    </Item>
+    <Item>
+      <Source>laser.png</Source>
+      <Name>laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Potatiskatt\OneDrive - Sektor barn och utbildning\IT-kurser\Programmering 2\HumanApocalypse\HumanApocalypse\HumanApocalypse\bin\x86\Debug\Content\laser.xnb</Output>
+      <Time>2018-04-14T15:28:27.7229514+02:00</Time>
+    </Item>
+    <Item>
+      <Source>soldier.png</Source>
+      <Name>soldier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Potatiskatt\OneDrive - Sektor barn och utbildning\IT-kurser\Programmering 2\HumanApocalypse\HumanApocalypse\HumanApocalypse\bin\x86\Debug\Content\soldier.xnb</Output>
+      <Time>2018-05-02T12:20:36.2338763+02:00</Time>
+    </Item>
+    <Item>
+      <Source>human.png</Source>
+      <Name>human</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Potatiskatt\OneDrive - Sektor barn och utbildning\IT-kurser\Programmering 2\HumanApocalypse\HumanApocalypse\HumanApocalypse\bin\x86\Debug\Content\human.xnb</Output>
+      <Time>2018-05-02T10:35:22.1020635+02:00</Time>
+    </Item>
+    <Item>
+      <Source>street.png</Source>
+      <Name>street</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Potatiskatt\OneDrive - Sektor barn och utbildning\IT-kurser\Programmering 2\HumanApocalypse\HumanApocalypse\HumanApocalypse\bin\x86\Debug\Content\street.xnb</Output>
+      <Time>2018-04-20T10:01:55.5985027+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont.spritefont</Source>
+      <Name>SpriteFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Potatiskatt\OneDrive - Sektor barn och utbildning\IT-kurser\Programmering 2\HumanApocalypse\HumanApocalypse\HumanApocalypse\bin\x86\Debug\Content\SpriteFont.xnb</Output>
+      <Time>2018-05-03T13:54:12.757205+02:00</Time>
+    </Item>
+    <Item>
+      <Source>unicornAnimation.png</Source>
+      <Name>unicornAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Potatiskatt\OneDrive - Sektor barn och utbildning\IT-kurser\Programmering 2\HumanApocalypse\HumanApocalypse\HumanApocalypse\bin\x86\Debug\Content\unicornAnimation.xnb</Output>
+      <Time>2018-05-04T10:16:45.8053729+02:00</Time>
+    </Item>
+    <Item>
+      <Source>heart.png</Source>
+      <Name>heart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Potatiskatt\OneDrive - Sektor barn och utbildning\IT-kurser\Programmering 2\HumanApocalypse\HumanApocalypse\HumanApocalypse\bin\x86\Debug\Content\heart.xnb</Output>
+      <Time>2018-05-04T19:03:00.9146002+02:00</Time>
+    </Item>
+    <Item>
+      <Source>menu.png</Source>
+      <Name>menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Potatiskatt\OneDrive - Sektor barn och utbildning\IT-kurser\Programmering 2\HumanApocalypse\HumanApocalypse\HumanApocalypse\bin\x86\Debug\Content\menu.xnb</Output>
+      <Time>2018-05-05T19:48:14.1049621+02:00</Time>
+    </Item>
+    <Item>
+      <Source>death.png</Source>
+      <Name>death</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Potatiskatt\OneDrive - Sektor barn och utbildning\IT-kurser\Programmering 2\HumanApocalypse\HumanApocalypse\HumanApocalypse\bin\x86\Debug\Content\death.xnb</Output>
+      <Time>2018-05-05T19:56:04.1897012+02:00</Time>
+    </Item>
+    <Item>
+      <Source>barrel.png</Source>
+      <Name>barrel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Potatiskatt\OneDrive - Sektor barn och utbildning\IT-kurser\Programmering 2\HumanApocalypse\HumanApocalypse\HumanApocalypse\bin\x86\Debug\Content\barrel.xnb</Output>
+      <Time>2018-05-29T10:19:52.7323693+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{20B57024-AA31-4965-80BE-DDC0E819F3F9}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Potatiskatt\OneDrive - Sektor barn och utbildning\IT-kurser\Programmering 2\HumanApocalypse\HumanApocalypse\HumanApocalypseContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Potatiskatt\OneDrive - Sektor barn och utbildning\IT-kurser\Programmering 2\HumanApocalypse\HumanApocalypse\HumanApocalypse\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Potatiskatt\OneDrive - Sektor barn och utbildning\IT-kurser\Programmering 2\HumanApocalypse\HumanApocalypse\HumanApocalypse\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Potatiskatt\OneDrive - Sektor barn och utbildning\IT-kurser\Programmering 2\HumanApocalypse\HumanApocalypse\HumanApocalypse\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-08-29T12:20:21.620302+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

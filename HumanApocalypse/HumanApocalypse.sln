@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanApocalypse", "HumanApocalypse\HumanApocalypse\HumanApocalypse.csproj", "{D5014D39-9A78-4898-AB3B-3728026A8B27}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "HumanApocalypseContent", "HumanApocalypse\HumanApocalypseContent\HumanApocalypseContent.contentproj", "{20B57024-AA31-4965-80BE-DDC0E819F3F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5014D39-9A78-4898-AB3B-3728026A8B27}.Debug|x86.ActiveCfg = Debug|x86
+		{D5014D39-9A78-4898-AB3B-3728026A8B27}.Debug|x86.Build.0 = Debug|x86
+		{D5014D39-9A78-4898-AB3B-3728026A8B27}.Release|x86.ActiveCfg = Release|x86
+		{D5014D39-9A78-4898-AB3B-3728026A8B27}.Release|x86.Build.0 = Release|x86
+		{20B57024-AA31-4965-80BE-DDC0E819F3F9}.Debug|x86.ActiveCfg = Debug|x86
+		{20B57024-AA31-4965-80BE-DDC0E819F3F9}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
